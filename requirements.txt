@@ -1,0 +1,6 @@
+flask
+pymupdf
+reportlab
+pdfplumber
+pikepdf
+requests
